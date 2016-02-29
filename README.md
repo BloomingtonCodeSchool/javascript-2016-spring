@@ -3,6 +3,7 @@
 # Featuring...
 * @brandonjp
 * @maicole
+* @ghepfer
 
 (Add your GitHub @username by [editing this file](https://github.com/BloomingtonCodeSchool/javascript-2016-spring/edit/master/README.md))
 
